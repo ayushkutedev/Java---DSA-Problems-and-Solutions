@@ -13,12 +13,13 @@ This repository contains Data Structures and Algorithms problems solved using Ja
 ## Folder Structure
 
 Java DSA interview
- ├── Arrays
- ├── Stack
- ├── Queue
- ├── Functions
- ├── Pattern
- └── Leetcode
+  Arrays
+  Stack
+  Queue
+  Functions
+  Pattern
+  Leetcode
 
 ## Language
+
 Java
